@@ -5,7 +5,7 @@
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic)
 
 🌱  I’m currently learning **Power BI**, **Python**, **SQL**, **Excel**.
 
